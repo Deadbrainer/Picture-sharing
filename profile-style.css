@@ -1,0 +1,36 @@
+body{
+	font-family: "Gelasio", serif;
+	color: #000000;
+	background: url(Images/background.jpg);
+	margin: 0px;
+	padding: 0px;
+}
+
+.profile-header{
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.avatar{
+	border-radius: 20em; 
+	width: 100px; height: 100px;
+	margin-left: 20em;
+	margin-top: 5em;
+}
+
+.info{
+	padding-left: 20em;
+}	
+
+.navigation{
+	font-size: 1em;
+	text-align: center;
+	color: #2E8B57;
+}	
+
+.profile-footer {
+	position: fixed;
+	left: 0; bottom: 0;
+    padding: 10px;
+	color: #999999;
+}
