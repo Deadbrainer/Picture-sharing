@@ -1,0 +1,16 @@
+body{
+	font-family: "Gelasio", serif;
+	color: #000000;
+	background: url(Images/background.jpg);
+}
+
+.profile-header{
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.navigation{
+	font-size: 1em;
+	text-align: center;
+	color: #2E8B57;
+}	
