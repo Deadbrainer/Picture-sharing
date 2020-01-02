@@ -6,6 +6,11 @@ body{
 	padding: 0px;
 }
 
+.container{
+	background: url(background2.jpg);
+	padding: 10em;
+}	
+
 .profile-header{
 	font-size: 1.5em;
 	text-align: center;
