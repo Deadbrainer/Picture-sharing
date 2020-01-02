@@ -2,13 +2,10 @@ body{
 	font-family: "Gelasio", serif;
 	color: #000000;
 	background-image: url(background.jpg);
+	background-image: url(background2.jpg);
 	margin: 0px;
 	padding: 0px;
 }
-
-.container{
-	background-image: url(background2.jpg);
-}	
 
 .profile-header{
 	font-size: 1.5em;
