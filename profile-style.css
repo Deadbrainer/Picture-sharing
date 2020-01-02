@@ -8,7 +8,7 @@ body{
 
 .container{
 	background: url(background2.jpg);
-	padding: 10em;
+	margin: 20em;
 }	
 
 .profile-header{
