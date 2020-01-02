@@ -18,5 +18,8 @@ body{
 .img_s{
 	width: 5em;
 	height: 5em;
-	margin: 10em;
 }	
+
+.image-slider{
+	margin: 10em;
+}
