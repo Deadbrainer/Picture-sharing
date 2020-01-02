@@ -16,6 +16,7 @@ body{
 }	
 
 .img_s{
-	width: 200px;
-	height: 200px;
+	width: 5em;
+	height: 5em;
+	padding: 10em;
 }	
